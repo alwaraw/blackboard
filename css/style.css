@@ -74,6 +74,7 @@ h1,h2,h3,h4,h5,h6,label{
 	background:#663b95;
 	color:white;
 	margin-top:40px;	
+	margin-bottom:80px;
 }
 
 .btn:hover{
@@ -82,12 +83,14 @@ h1,h2,h3,h4,h5,h6,label{
 	background:#8959bd;
 	color:white;
 	margin-top:40px;
+	margin-bottom:80px;
 
 }
 
 .btnr{
 	border-radius:5px;
-	padding:5px;
+	padding:1px;
+	font-size: 11px;
 	background:#ff0000;
 	color:white;
 	
@@ -128,9 +131,9 @@ h1,h2,h3,h4,h5,h6,label{
 	padding:30px;
 	margin-bottom:40px;
 	
-	 -webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  -moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-webkit-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
@@ -156,6 +159,14 @@ label{
 	
 }
 
+footer{
+	text-align:center;
+	color:white;
+	line-height:50px;
+	margin-top:20px;
+	margin-bottom:0px;
+	
+}
 
 .success{
 	background:green;
@@ -199,7 +210,8 @@ label{
 
 
 .text{
-	text-align:center;		
+	text-align:center;
+	margin-top:50px;	
 	
 }
 
@@ -213,7 +225,6 @@ label{
    width: 100%;
    background-color: #663b95;
    color: white;
-   line-height:50px;
    text-align: center;
 }
 
@@ -241,3 +252,94 @@ label{
 	font-family:cambria;
 	
 }
+
+.text{
+	text-align:left;		
+	
+}
+
+.content1{
+	margin-top:30px;
+	margin-LEFT:30px;
+	height:auto;
+	width:300px;
+	float:left;	
+	
+}
+
+.content1{
+	margin-top:30px;
+}
+
+.input2{
+	width:80%;
+	height:40px;
+	margin-top:20px;
+	
+}
+
+.tbox{
+	float:left;
+}
+
+.tboxn{
+	float:left;
+	margin-left:280px;
+}
+
+.tbox table{
+	border-collapse:collapse;
+	
+}
+
+.lbox1{
+	
+	width:50%;
+margin-right:20px;
+	float:left;
+}
+
+.input3{
+	width:90%;
+	height:40px;
+	margin-top:20px;
+	
+}
+
+.rbox1{
+	width:45%;
+	float:left;
+}
+
+.rbox1 table{
+	width:100%;
+}
+
+
+.sidebar{
+	width:200px;
+	height:auto;
+	margin-top:70px;
+	margin-right:30px;
+	float:left;
+	background:white;
+	
+}
+
+.add_class{
+	
+	margin-top:10px;
+	margin-bottom:30px;
+}
+
+.add_class2{
+	
+	margin-top:10px;
+	margin-bottom:30px;
+}
+
+.tn{
+	
+	margin-bottom:100px;
+}
+

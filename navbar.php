@@ -2,7 +2,7 @@
 
 			<ul class="list">
 				<b style="color:white;float:left;line-height:50px;margin-left:15px;font-family:Cooper Black;">
-				Nameless Blackboard</b>
+				Nameless Dashboard</b>
 			<?php
 				if(isset($_SESSION["AID"]))
 				{
@@ -23,7 +23,7 @@
 				else{
 					echo'
 					
-						<li><a href="index.php">Educator Login</a></li>
+						<li><a href="index.php">educator Login</a></li>
 						<li><a href="student_login.php">Student Login</a></li>
 				    ';
 				}
@@ -31,3 +31,4 @@
 				
 			</ul>
 		</div>
+		

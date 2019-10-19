@@ -1,5 +1,5 @@
 <?php
-	$db=new mysqli("localhost","alwaraw","123456789","alwaraw_school");
+	$db=new mysqli("localhost","root","123456789","school");
 	if(!$db)
 	{
 		echo "failed";
